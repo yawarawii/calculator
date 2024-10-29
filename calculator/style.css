@@ -62,3 +62,6 @@ button {
 .operator {
     color: #6dee0a;
 }
+@media (max-width: 600px) {
+    /* Mobile styles */
+}
